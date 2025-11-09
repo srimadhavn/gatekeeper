@@ -1,0 +1,11 @@
+{
+  "reading_minutes": 10,
+  "journal_min_lines": 10,
+  "journal_dir": "~/Gatekeeper/journal",
+  "state_path": "~/.gatekeeper/state.json",
+  "db_path": "./questions.db",
+  "strict_mode": true,
+  "max_wrong_dsa": 1,
+  "max_wrong_sql": 1,
+  "min_short_answer_chars": 8
+}

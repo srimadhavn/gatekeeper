@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "What is the time complexity of binary search?",
+    "options": { "a": "O(log n)", "b": "O(n)", "c": "O(n log n)", "d": "O(1)" },
+    "answer": "a",
+    "tags": ["binary-search", "arrays"]
+  },
+  {
+    "id": 2,
+    "type": "short",
+    "question": "What property of a BST enables fast search?",
+    "answer": "left subtree smaller right subtree larger",
+    "tags": ["bst", "trees"]
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "Which data structure is used for BFS?",
+    "options": { "a": "Stack", "b": "Queue", "c": "Deque", "d": "Tree" },
+    "answer": "b",
+    "tags": ["graphs", "bfs"]
+  }
+]

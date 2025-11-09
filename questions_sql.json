@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "prompt": "Return the second highest salary from Employees(id, name, salary).",
+    "keywords": ["select", "salary", "from", "employees", "order by", "desc", "limit", "offset"],
+    "tags": ["sql", "aggregation", "order"]
+  },
+  {
+    "id": 2,
+    "prompt": "Find users who never placed an order. Users(id,name), Orders(id,user_id).",
+    "keywords": ["select", "from", "users", "left join", "orders", "on", "users.id", "orders.user_id", "where", "orders.id", "is null"],
+    "tags": ["sql", "joins", "null-check"]
+  }
+]
