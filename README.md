@@ -36,3 +36,5 @@ Open `init_db.py` and add to `DSA` and `SQL`, then re-run `python3 init_db.py`.
 - GUI/browser lock
 - LeetCode integration
 - Streak dashboard
+
+![License](https://img.shields.io/badge/license-MIT-green)
